@@ -1,0 +1,22 @@
+.colorPicker {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.colorDisplay {
+    display: flex;
+    height: 250px;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px;
+    margin: 20px;
+    margin-bottom: 0;
+} 
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
